@@ -1,6 +1,6 @@
 # 🟡  rotate-and-merge in osx terminal 
 
-🟩 rotate and merge operations on some folder images 
+🟩 Perform rotate and merge operations on images within a specific folder.
 
 🟧 The images must have equal width and height.
 
