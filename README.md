@@ -2,6 +2,9 @@
 
 rotate and merge operations on images
 
+🟧 The images must have equal width and height.
+
+
 
 
 ### 3 x 3 rotate and merge 
