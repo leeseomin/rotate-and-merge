@@ -1,4 +1,5 @@
-# rotate-and-merge
+# 🟡  rotate-and-merge in terminal ✔️
+
 rotate and merge operations on images
 
 
