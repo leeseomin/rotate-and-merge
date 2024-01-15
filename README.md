@@ -4,7 +4,7 @@
 
 🟧 The images must have equal width and height.
 
-🟡 ``` sh ```
+🟡 ``` sh ``` : script entry in terminal 
 
 
 ### 3 x 3 rotate and merge 
